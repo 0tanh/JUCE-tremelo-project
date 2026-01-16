@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-build/tools/cmake_install.cmake",
+		"/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-build/tools/modules/cmake_install.cmake",
+		"/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-build/tools/extras/Build/cmake_install.cmake",
+		"/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-build/tools/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

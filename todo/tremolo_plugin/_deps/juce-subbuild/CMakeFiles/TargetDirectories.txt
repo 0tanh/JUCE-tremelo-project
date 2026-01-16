@@ -1,0 +1,3 @@
+/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-subbuild/CMakeFiles/juce-populate.dir
+/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-subbuild/CMakeFiles/edit_cache.dir
+/Users/bettypotgieter/Documents/All Code/Audio:DSP/JUCE-tremelo-project/todo/tremolo_plugin/_deps/juce-subbuild/CMakeFiles/rebuild_cache.dir
